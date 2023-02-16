@@ -31,3 +31,4 @@ El video lo he extraido de Pexels en formato **MP4**. Su [licencia de uso](https
 
 Los formatos mas indicados para usar en web son **MP4** y **WEBM**. MP4 porque es el formato estandar de video y el codec que usa es x264 para el video y AAC para el audio. WEBM porque tiene un gran nivel de compresion y ademas es muy compatible con navegadores y el codec que usa es VP9 para el video y Opus para el audio.
 
+El programa usado para convertir el video es [cloudconverter](https://cloudconvert.com/)
