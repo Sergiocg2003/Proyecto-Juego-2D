@@ -27,4 +27,4 @@ El programa usado para convertir los audios es [online-audio-converter](https://
 
 ## Video
 
-El video lo he extraido de Pexels en formato **MP4**. Su [licencia de uso](https://www.pexels.com/license/) es de libre uso y no es necesario mencionar a la fuente o al fotógrafo.
+El video lo he extraido de Pexels en formato **MP4**. Su [licencia de uso](https://www.pexels.com/license/) es de libre uso y no es necesario mencionar a la fuente.
