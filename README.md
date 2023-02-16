@@ -27,4 +27,6 @@ El programa usado para convertir los audios es [online-audio-converter](https://
 
 ## Video
 
-El video lo he extraido de Pexels en formato **MP4**. Su [licencia de uso](https://www.pexels.com/license/) es de libre uso y no es necesario mencionar a la fuente.
+El video lo he extraido de Pexels en formato **MP4**. Su [licencia de uso](https://www.pexels.com/license/) es de libre uso y no es necesario mencionar a la fuente o al autor.
+
+Los formatos mas indicados para usar en web son **MP4** y ****. MP4 porque es el formato estandar de video y el codec que usa es x264 
