@@ -15,4 +15,8 @@ Por otro lado la imagen de la cocina la he encontrado en Pixabay en formato jpg.
 
 ## Audio
 
+Los audios los he extraido de Mixkit en formato wav. Su [licencia de uso](https://mixkit.co/license/#sfxFree) es de libre uso pero no se permite la venta de los mismos
+
 ## Video
+
+El video lo he extraido de Pexels en formato mp4. Su [licencia de uso](https://www.pexels.com/license/) es de libre uso y no es necesario mencionar a la fuente o al fotógrafo.
