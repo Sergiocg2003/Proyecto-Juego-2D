@@ -29,4 +29,5 @@ El programa usado para convertir los audios es [online-audio-converter](https://
 
 El video lo he extraido de Pexels en formato **MP4**. Su [licencia de uso](https://www.pexels.com/license/) es de libre uso y no es necesario mencionar a la fuente o al autor.
 
-Los formatos mas indicados para usar en web son **MP4** y ****. MP4 porque es el formato estandar de video y el codec que usa es x264 
+Los formatos mas indicados para usar en web son **MP4** y **WEBM**. MP4 porque es el formato estandar de video y el codec que usa es x264 para el video y AAC para el audio. WEBM porque tiene un gran nivel de compresion y ademas es muy compatible con navegadores y el codec que usa es VP9 para el video y Opus para el audio.
+
