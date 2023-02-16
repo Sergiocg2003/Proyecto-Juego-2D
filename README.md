@@ -15,6 +15,8 @@ Por otro lado la imagen de la cocina la he encontrado en Pixabay en formato jpg.
 
 Los formatos mas usados para las imágenes en una web son **PNG**, **JPEG** y **GIF** ya que son los mas compensados entre calidad y peso de los archivos y el formato mas usado para la impresión es **TIFF** ya que es el que mas conserva la calidad de la imagen.
 
+El programa usado para convertir las imagenes es Affinity Photo.
+
 ## Audio
 
 Los audios los he extraido de Mixkit en formato wav. Su [licencia de uso](https://mixkit.co/license/#sfxFree) es de libre uso pero no se permite la venta de los mismos
