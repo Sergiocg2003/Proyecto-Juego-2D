@@ -13,6 +13,8 @@ Las imágenes usadas para sacar la planta, la ventana y la pared han sido sacada
 
 Por otro lado la imagen de la cocina la he encontrado en Pixabay en formato jpg. Su [licencia de uso](https://pixabay.com/es/service/license/) es de libre uso y no es necesario mencionar a la fuente o al fotógrafo.
 
+Los formatos mas usados para las imágenes en una web son **PNG**, **JPEG** y **GIF** ya que son los mas compensados entre calidad y peso de los archivos y el formato mas usado para la impresión es **TIFF** ya que es el que mas conserva la calidad de la imagen.
+
 ## Audio
 
 Los audios los he extraido de Mixkit en formato wav. Su [licencia de uso](https://mixkit.co/license/#sfxFree) es de libre uso pero no se permite la venta de los mismos
